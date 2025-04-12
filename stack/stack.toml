@@ -28,6 +28,7 @@ platforms = ["linux/amd64", "linux/arm64"]
     jq \
     libgmp-dev \
     libssl3 \
+    libssl1.1 \
     libssl-dev \
     libyaml-0-2 \
     netbase \
@@ -62,6 +63,7 @@ platforms = ["linux/amd64", "linux/arm64"]
     ca-certificates \
     libc6 \
     libssl3 \
+    libssl1.1 \
     netbase \
     openssl \
     tzdata \
